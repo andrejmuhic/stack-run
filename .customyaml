@@ -1,0 +1,5 @@
+packages: []
+resolver: lts-13.0
+extra-deps:
+- github: andrevdm/stack-run
+  commit: f91cc7cb24cf6343fc2439f00c0b5c4a126433dd
